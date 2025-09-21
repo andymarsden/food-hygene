@@ -42,7 +42,7 @@ try:
         "Choose an authority",
         options=authorities,
         format_func=show_authority_name,
-        index=default_index # default to Lincoln City
+        index=56 # default to Lincoln City
     )
     if selected:
         laId = selected.get("LocalAuthorityId")
