@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scipy
+requests
+pydeck
+plotly
+# Optional: for interactive plotly events
+streamlit-plotly-events
